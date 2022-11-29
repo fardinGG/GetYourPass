@@ -1,2 +1,2 @@
 # GetYourPass
-This is a Password Generator created by me for my CPS 109 project at TMU (formerly Ryerson University)
+This is a password generator that creates a password combining the alphabets, digits and symbols. Users can select the length of the password as well as the number of alphabets/digits/symbols they desire. 
